@@ -1,3 +1,27 @@
+
+YahyaHackathon - E-Commerce Platform
+Project by Sheikh Yahya Khan
+
+This project is a modern, responsive e-commerce web application built using Next.js, React.js, and Tailwind CSS. The goal of this project is to provide a seamless shopping experience with features such as product details, cart functionality, and a user-friendly interface.
+
+Technologies Used
+Next.js: A powerful React framework for building server-side rendered applications and optimizing SEO.
+React.js: Used for creating dynamic and reusable UI components.
+Tailwind CSS: A utility-first CSS framework for creating responsive and highly customizable designs.
+React Icons: Used for adding customizable social media and functional icons.
+Vercel: Used for seamless deployment and hosting of the project.
+Features
+Home Page: A welcoming page with a hero section, featured brands, new arrivals, and testimonials.
+Product Detail Page: A detailed view of each product with options to select size, color, and add to cart.
+Category Page: Browse products by category with filters like size, color, and price range.
+Cart Page: Allows users to view, modify, or remove products from the cart and proceed to checkout.
+Footer Section: Includes links to social media profiles, payment methods, and basic site information.
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
